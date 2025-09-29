@@ -793,21 +793,21 @@
 					</FilesList>
 				</path>
 				<Path>
-						<StateList>
-							<State>
-								<Name>Nation</Name>
-								<Value>Japan</Value>
-							</State>
-							<State>
-								<Name>Vehicle_Type</Name>
-								<Value>Battleship</Value>
-							</State>
-						</StateList>
-						<FilesList>
-							<File>
-								<Name>TISHINA.wem</Name>
-							</File>
-						</FilesList>
+					<StateList>
+						<State>
+							<Name>Nation</Name>
+							<Value>Japan</Value>
+						</State>
+						<State>
+							<Name>Vehicle_Type</Name>
+							<Value>Battleship</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>TISHINA.wem</Name>
+						</File>
+					</FilesList>
 				</Path>
 			</Container>
 		</ExternalEvent>
