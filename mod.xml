@@ -621,7 +621,7 @@
 			<Name>Play_VO_Alarm_Map_Border</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VVO_Alarm_Map_Border</ExternalId>
+				<ExternalId>VO_Alarm_Map_Border</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -709,7 +709,7 @@
 			<Name>Play_VO_Alarm_Weather_Changed</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VVO_Alarm_Weather_Changed</ExternalId>
+				<ExternalId>VUI_Alarm_Weather_Changed</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -1238,7 +1238,7 @@
 			<Name>Play_VO_Consumable</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VVO_Consumable</ExternalId>
+				<ExternalId>VO_Consumable</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -1346,7 +1346,7 @@
 			<Name>Play_VO_Consumable_End</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VVO_Consumable_End</ExternalId>
+				<ExternalId>VUI_Consumable_End</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -1454,7 +1454,7 @@
 			<Name>Play_VO_Consumable_Interrupted</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VVO_Consumable_Interrupted</ExternalId>
+				<ExternalId>VUI_Consumable_Interrupted</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -1716,7 +1716,7 @@
 			<Name>Play_VO_Start_Battle</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VVO_Start_Battle</ExternalId>
+				<ExternalId>VStart_Battle</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -1834,7 +1834,7 @@
 			<Name>Play_VO_Telegraph</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VVO_Telegraph</ExternalId>
+				<ExternalId>VUI_Telegraph</ExternalId>
 				<Path>
 					<StateList>
 						<State>
