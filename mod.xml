@@ -1303,7 +1303,16 @@
 						<State>
 							<Name>Nation</Name>
 							<Value>Japan</Value>
-						</State>
+			</StateList>
+					<FilesList>
+						<File>
+							<Name>Harekaze_Consumable_Forsage_Start.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+			</Container>
+		</ExternalEvent>
+		<ExternalEvent>			</State>
 						<State>
 							<Name>Vehicle_Type</Name>
 							<Value>Cruiser</Value>
@@ -1333,16 +1342,7 @@
 							<Name>HelpType</Name>
 							<Value>Engine</Value>
 						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Harekaze_Consumable_Forsage_Start.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-			</Container>
-		</ExternalEvent>
-		<ExternalEvent>
+					
 			<Name>Play_VO_Consumable_End</Name>
 			<Container>
 				<Name>Voice</Name>
@@ -1580,22 +1580,6 @@
 					<StateList>
 						<State>
 							<Name>Nation</Name>
-							<Value>United_Kingdom</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ayane_Ship_Destroyed.wem</Name>
-						</File>
-						<File>
-							<Name>Hoshino_Ship_Destroyed.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>Nation</Name>
 							<Value>Japan</Value>
 						</State>
 						<State>
@@ -1806,28 +1790,6 @@
 						</File>
 						<File>
 							<Name>Takao_Lets_Battle_3.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>Nation</Name>
-							<Value>United_Kingdom</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ayane_Lets_Battle_2.wem</Name>
-						</File>
-						<File>
-							<Name>Arona_Lets_Battle_1.wem</Name>
-						</File>
-						<File>
-							<Name>Arona_Lets_Battle_2.wem</Name>
-						</File>
-						<File>
-							<Name>Ayane_Lets_Battle_1.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
