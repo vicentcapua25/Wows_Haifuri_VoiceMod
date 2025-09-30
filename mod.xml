@@ -775,7 +775,7 @@
 						</File>
 					</FilesList>
 				</Path>
-				<path>
+				<Path>
 					<StateList>
 						<State>
 							<Name>Nation</Name>
@@ -1238,7 +1238,7 @@
 			<Name>Play_VO_Consumable</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VO_Consumable</ExternalId>
+				<ExternalId>VVO_Consumable</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -1303,16 +1303,7 @@
 						<State>
 							<Name>Nation</Name>
 							<Value>Japan</Value>
-			</StateList>
-					<FilesList>
-						<File>
-							<Name>Harekaze_Consumable_Forsage_Start.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-			</Container>
-		</ExternalEvent>
-		<ExternalEvent>			</State>
+						</State>
 						<State>
 							<Name>Vehicle_Type</Name>
 							<Value>Cruiser</Value>
@@ -1342,11 +1333,20 @@
 							<Name>HelpType</Name>
 							<Value>Engine</Value>
 						</State>
-					
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>Harekaze_Consumable_Forsage_Start.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+			</Container>
+		</ExternalEvent>
+		<ExternalEvent>
 			<Name>Play_VO_Consumable_End</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VUI_Consumable_End</ExternalId>
+				<ExternalId>VVO_Consumable_End</ExternalId>
 				<Path>
 					<StateList>
 						<State>
