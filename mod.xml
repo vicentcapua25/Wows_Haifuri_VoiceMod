@@ -3,10 +3,10 @@
 	<AudioModification>
 		<Name>Haifuri_Test</Name>
 		<ExternalEvent>
-			<Name>Play_UI_Alarm_Defective_Modules</Name>
+			<Name>Play_VO_Alarm_Defective_Modules</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VUI_Alarm_Defective_Modules</ExternalId>
+				<ExternalId>VVO_Alarm_Defective_Modules</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -618,10 +618,10 @@
 			</Container>
 		</ExternalEvent>
 		<ExternalEvent>
-			<Name>Play_UI_Alarm_Map_Border</Name>
+			<Name>Play_VO_Alarm_Map_Border</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VUI_Alarm_Map_Border</ExternalId>
+				<ExternalId>VVO_Alarm_Map_Border</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -712,10 +712,10 @@
 			</Container>
 		</ExternalEvent>
 		<ExternalEvent>
-			<Name>Play_UI_Alarm_Weather_Changed</Name>
+			<Name>Play_VO_Alarm_Weather_Changed</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VUI_Alarm_Weather_Changed</ExternalId>
+				<ExternalId>VVO_Alarm_Weather_Changed</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -1207,10 +1207,10 @@
 			</Container>
 		</ExternalEvent>
 		<ExternalEvent>
-			<Name>Play_UI_Consumable</Name>
+			<Name>Play_VO_Consumable</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VUI_Consumable</ExternalId>
+				<ExternalId>VVO_Consumable</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -1847,10 +1847,10 @@
 			</Container>
 		</ExternalEvent>
 		<ExternalEvent>
-			<Name>Play_UI_Consumable_End</Name>
+			<Name>Play_VO_Consumable_End</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VUI_Consumable_End</ExternalId>
+				<ExternalId>VVO_Consumable_End</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -2500,10 +2500,10 @@
 			</Container>
 		</ExternalEvent>
 		<ExternalEvent>
-			<Name>Play_UI_Consumable_Interrupted</Name>
+			<Name>Play_VO_Consumable_Interrupted</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VUI_Consumable_Interrupted</ExternalId>
+				<ExternalId>VVO_Consumable_Interrupted</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -2718,7 +2718,7 @@
 			<Name>Play_Damage_Death</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VDamage_Death</ExternalId>
+				<ExternalId>VVO_Damage_Death</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -7681,10 +7681,10 @@
 			</Container>
 		</ExternalEvent>
 		<ExternalEvent>
-			<Name>Play_UI_Result_Stinger</Name>
+			<Name>Play_VO_Result_Stinger</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VUI_Result_Stinger</ExternalId>
+				<ExternalId>VVO_Result_Stinger</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -8568,10 +8568,10 @@
 			</Container>
 		</ExternalEvent>
 		<ExternalEvent>
-			<Name>Play_Start_Battle</Name>
+			<Name>Play_VO_Start_Battle</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VStart_Battle</ExternalId>
+				<ExternalId>VVO_Start_Battle</ExternalId>
 				<Path>
 					<StateList>
 						<State>
@@ -8805,10 +8805,10 @@
 			</Container>
 		</ExternalEvent>
 		<ExternalEvent>
-			<Name>Play_UI_Telegraph</Name>
+			<Name>Play_VO_Telegraph</Name>
 			<Container>
 				<Name>Voice</Name>
-				<ExternalId>VUI_Telegraph</ExternalId>
+				<ExternalId>VVO_Telegraph</ExternalId>
 				<Path>
 					<StateList>
 						<State>
