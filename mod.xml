@@ -8558,11 +8558,6 @@
 			</Container>
 		</ExternalEvent>
 		<ExternalEvent>
-			<Name>Play_VO_Ship_Alarms_Torpedo_Danger</Name>
-			<Container>
-			</Container>
-		</ExternalEvent>
-		<ExternalEvent>
 			<Name>Play_VO_Ship_Avatar_Flooding</Name>
 			<Container>
 			</Container>
