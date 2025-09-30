@@ -24,22 +24,6 @@
 					<StateList>
 						<State>
 							<Name>Nation</Name>
-							<Value>United_Kingdom</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ayane_Ship_Destroyed.wem</Name>
-						</File>
-						<File>
-							<Name>Hoshino_Ship_Destroyed.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>Nation</Name>
 							<Value>Japan</Value>
 						</State>
 						<State>
