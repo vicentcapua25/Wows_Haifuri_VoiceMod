@@ -1388,6 +1388,23 @@
 						</State>
 						<State>
 							<Name>HelpType</Name>
+							<Value>CallFighters</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>Mina_Thea_CatFight_Launch.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>Nation</Name>
+							<Value>Germany</Value>
+						</State>
+						<State>
+							<Name>HelpType</Name>
 							<Value>Fighter</Value>
 						</State>
 					</StateList>
@@ -1456,9 +1473,6 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>TISHINA.wem</Name>
-						</File>
-						<File>
 							<Name>Moeka_China_Quick_Commands_Consume_SurveillanceRadar_Launch_1.wem</Name>
 						</File>
 					</FilesList>
@@ -1502,6 +1516,27 @@
 					<FilesList>
 						<File>
 							<Name>Moeka_China_Consumable_Smoke_Start.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>Nation</Name>
+							<Value>Japan</Value>
+						</State>
+						<State>
+							<Name>Vehicle_Type</Name>
+							<Value>AirCarrier</Value>
+						</State>
+						<State>
+							<Name>HelpType</Name>
+							<Value>CallFighters</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>Moeka_China_CatFight_Launch.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -1618,6 +1653,27 @@
 						</State>
 						<State>
 							<Name>Vehicle_Type</Name>
+							<Value>Battleship</Value>
+						</State>
+						<State>
+							<Name>HelpType</Name>
+							<Value>CallFighters</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>Moeka_China_CatFight_Launch.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>Nation</Name>
+							<Value>Japan</Value>
+						</State>
+						<State>
+							<Name>Vehicle_Type</Name>
 							<Value>Cruiser</Value>
 						</State>
 						<State>
@@ -1735,6 +1791,30 @@
 						</State>
 						<State>
 							<Name>Vehicle_Type</Name>
+							<Value>Cruiser</Value>
+						</State>
+						<State>
+							<Name>HelpType</Name>
+							<Value>CallFighters</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>Akeno_Mashiro_CatFight_Launch.wem</Name>
+						</File>
+						<File>
+							<Name>Kouko_Nosa_CatFight_Launch.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>Nation</Name>
+							<Value>Japan</Value>
+						</State>
+						<State>
+							<Name>Vehicle_Type</Name>
 							<Value>Destroyer</Value>
 						</State>
 						<State>
@@ -1843,6 +1923,30 @@
 							<Name>Kouko_Nosa_Consumable_Smoke_Start.wem</Name>
 						</File>
 					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>Nation</Name>
+							<Value>Japan</Value>
+						</State>
+						<State>
+							<Name>Vehicle_Type</Name>
+							<Value>Destroyer</Value>
+						</State>
+						<State>
+							<Name>HelpType</Name>
+							<Value>CallFighters</Value>
+						</State>
+						<FilesList>
+							<File>
+								<Name>Akeno_Mashiro_CatFight_Launch.wem</Name>
+							</File>
+							<File>
+								<Name>Kouko_Nosa_CatFight_Launch.wem</Name>
+							</File>
+						</FilesList>
+					</StateList>
 				</Path>
 			</Container>
 		</ExternalEvent>
@@ -2011,7 +2115,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Moeka_China_CatFight_Return.wem</Name>
+							<Name>Moeka_China_Corr_Return.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -2116,7 +2220,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Moeka_China_CatFight_Return.wem</Name>
+							<Name>Moeka_China_Corr_Return.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -2227,7 +2331,75 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Kouko_Nosa_CatFight_Return.wem</Name>
+							<Name>Kouko_Nosa_Corr_Return.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>Nation</Name>
+							<Value>Germany</Value>
+						</State>
+						<State>
+							<Name>HelpType</Name>
+							<Value>Scout</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>Mina_Thea_Corr_Return.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>Nation</Name>
+							<Value>Germany</Value>
+						</State>
+						<State>
+							<Name>HelpType</Name>
+							<Value>Smoke</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>Mina_Thea_Consumable_Smoke_Stop.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>Nation</Name>
+							<Value>Germany</Value>
+						</State>
+						<State>
+							<Name>HelpType</Name>
+							<Value>Fighter</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>Mina_Thea_CatFight_Return.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>Nation</Name>
+							<Value>Germany</Value>
+						</State>
+						<State>
+							<Name>HelpType</Name>
+							<Value>AirDefenseDisp</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>Mina_Thea_Consumable_AAC_Normal.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -2729,22 +2901,6 @@
 					<FilesList>
 						<File>
 							<Name>Mina_Thea_Ship_Destroyed.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>Nation</Name>
-							<Value>United_Kingdom</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ayane_Ship_Destroyed.wem</Name>
-						</File>
-						<File>
-							<Name>Hoshino_Ship_Destroyed.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
