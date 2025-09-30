@@ -780,7 +780,7 @@
 						<State>
 							<Name>Nation</Name>
 							<Value>Japan</Value>
-						</state>
+						</State>
 						<State>
 							<Name>Vehicle_Type</Name>
 							<Value>AirCarrier</Value>
@@ -791,7 +791,7 @@
 							<Name>TISHINA.wem</Name>
 						</File>
 					</FilesList>
-				</path>
+				</Path>
 				<Path>
 						<StateList>
 							<State>
@@ -1710,6 +1710,7 @@
 							<Name>Mina_Thea_Detection_Enemy_Battleship_2.wem</Name>
 						</File>
 					</FilesList>
+				</Path>
 			</Container>
 		</ExternalEvent>
 		<ExternalEvent>
