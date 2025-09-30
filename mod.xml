@@ -3934,7 +3934,7 @@
 				</Path>
 			</Container>
 		</ExternalEvent>
-				<ExternalEvent>
+		<ExternalEvent>
 			<Name>Play_VO_Torpedo_Hit</Name>
 			<Container>
 				<Name>Voice</Name>
