@@ -3052,10 +3052,10 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Mina_Thea_Detection_Enemy_Destroyer_1.wem</File>
+							<Name>Mina_Thea_Detection_Enemy_Destroyer_1.wem</Name>
 						</File>
 						<File>
-							<Name>Mina_Thea_Detection_Enemy_Destroyer_2.wem</File>
+							<Name>Mina_Thea_Detection_Enemy_Destroyer_2.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -3066,7 +3066,7 @@
 							<Value>Germany</Value>
 						</State>
 						<State>
-							<Name>VO_Spotting_Multi</Name>
+							<Name>VO_Spotting</Name>
 							<Value>VO_Spotting_Multi</Value>
 						</State>
 					</StateList>
@@ -3086,7 +3086,7 @@
 							<Value>Germany</Value>
 						</State>
 						<State>
-							<Name>VO_Spotting_</Name>
+							<Name>VO_Spotting</Name>
 							<Value>VO_Spotting_Submarine</Value>
 						</State>
 					</StateList>
@@ -3179,7 +3179,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Moeka_China_Detection_Enemy_Destroyer_1.wem</File>
+							<Name>Moeka_China_Detection_Enemy_Destroyer_1.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -3305,7 +3305,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Moeka_China_Detection_Enemy_Destroyer_1.wem</File>
+							<Name>Moeka_China_Detection_Enemy_Destroyer_1.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -3449,13 +3449,13 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Kouko_Nosa_Detection_Enemy_Destroyer_1.wem</File>
+							<Name>Kouko_Nosa_Detection_Enemy_Destroyer_1.wem</Name>
 						</File>
 						<File>
-							<Name>Akeno_Mashiro_Detection_Enemy_Destroyer_1.wem</File>
+							<Name>Akeno_Mashiro_Detection_Enemy_Destroyer_1.wem</Name>
 						</File>
 						<File>
-							<Name>Akeno_Mashiro_Detection_Enemy_Destroyer_2.wem</File>
+							<Name>Akeno_Mashiro_Detection_Enemy_Destroyer_2.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -3605,13 +3605,13 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Kouko_Nosa_Detection_Enemy_Destroyer_1.wem</File>
+							<Name>Kouko_Nosa_Detection_Enemy_Destroyer_1.wem</Name>
 						</File>
 						<File>
-							<Name>Akeno_Mashiro_Detection_Enemy_Destroyer_1.wem</File>
+							<Name>Akeno_Mashiro_Detection_Enemy_Destroyer_1.wem</Name>
 						</File>
 						<File>
-							<Name>Akeno_Mashiro_Detection_Enemy_Destroyer_2.wem</File>
+							<Name>Akeno_Mashiro_Detection_Enemy_Destroyer_2.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
